@@ -1,2 +1,2 @@
-## GRC-Implementations
+## GRC-Implementations with Mini Projects
 This repository documents my Governance, Risk, and Compliance (GRC) learning journey through hands-on mini projects. Each project is based on practical scenarios designed by my mentor and completed as part of a continuous **learn → implement → reflect → improve** approach. The goal is to build real-world GRC skills by creating industry-style artifacts, applying security frameworks, and documenting practical implementations rather than simply studying theory.

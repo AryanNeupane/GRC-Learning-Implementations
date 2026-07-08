@@ -1,9 +1,0 @@
-# Control Mapping : NorthPeak Outfitters
-
-| Risk ID | Risk Description | Control ID | Control Description | Control Type | Control Function | Evidence of Operation | Residual Impact |
-|---------|------------------|------------|---------------------|--------------|------------------|-----------------------|-----------------|
-| R-001 | Unauthorized access to the Shopify Admin Panel through credential stuffing. | C-001 | Enforce Multi-Factor Authentication (MFA), strong password policy, and account lockout after failed login attempts. | Technical | Preventive | MFA enabled, authentication logs, account lockout records. | High → Medium |
-| R-002 | Customer data exposure from the cloud-hosted database. | C-002 | Encrypt sensitive data, implement role-based access control (RBAC), and perform regular backups. | Technical | Preventive | Encryption settings, access control policy, backup reports. | High → Medium |
-| R-003 | Payment gateway outage or third-party security breach. | C-003 | Use a PCI DSS-compliant payment provider, monitor vendor performance, and maintain a Service Level Agreement (SLA). | Administrative | Compensating | Vendor compliance reports, SLA documentation, incident reports. | High → Medium |
-| R-004 | Employee accounts compromised through phishing attacks. | C-004 | Conduct security awareness training, phishing simulations, and enforce MFA for employee accounts. | Administrative | Preventive | Training attendance records, phishing simulation results, MFA reports. | High → Medium |
-| R-005 | Malware infection or unauthorized access through employees' personal laptops. | C-005 | Deploy endpoint protection, require VPN access, and implement a BYOD security policy. | Technical | Preventive | Endpoint security dashboard, VPN logs, BYOD policy documentation. | High → Medium |
